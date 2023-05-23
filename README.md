@@ -26,8 +26,3 @@
 5월 16일 데이터베이스 실습 SQL문 작성<br>
 Chapter08 - 트랜잭션 병행 수행 <br><br>
 
-5월 23일 데이터베이스 실습 SQL문 작성<br>
-Chapter08 - 로그 파일<br> 
-Chapter08 - 로그 파일을 이용한 회복<br> 
-Chapter08 - 체크포인트<br><br> 
-
