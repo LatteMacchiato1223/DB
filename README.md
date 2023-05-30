@@ -26,3 +26,8 @@
 5월 16일 데이터베이스 실습 SQL문 작성<br>
 Chapter08 - 트랜잭션 병행 수행 <br><br>
 
+5월 30일 데이터베이스 실습 SQL문 작성<br>
+Chapter04 - 내장함수 실습<br>
+Chapter04 연습문제 03 - ROWNUM에 관한 SQL문<br>
+Chapter04 - 부속질의 실습<br><br>
+
