@@ -31,3 +31,6 @@ Chapter04 - 내장함수 실습<br>
 Chapter04 연습문제 03 - ROWNUM에 관한 SQL문<br>
 Chapter04 - 부속질의 실습<br><br>
 
+6월 5일 데이터베이스 실습 SQL문 작성<br>
+Chapter04 - 뷰 생성, 수정, 삭제 예<br><br>
+
